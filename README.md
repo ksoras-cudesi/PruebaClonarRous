@@ -1,2 +1,0 @@
-# PruebaClonarRous
-Zack
